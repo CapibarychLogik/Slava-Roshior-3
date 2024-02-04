@@ -1,12 +1,12 @@
-
 body {
     font-family: sans-serif;
 
-    background-image: url("https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg")
+    background-image: url("https://assets.turbologo.ru/blog/ru/2021/10/30071021/background4.png");
 }
 h1 {
     font-size: 50px;
     text-align: center;
+    color: rgb(68, 38, 107);
 }
 
 nav {
@@ -19,7 +19,7 @@ nav {
 nav a {
     text-decoration: none;
     font-size: 20px;
-    color: navy;
+    color: rgba(109, 102, 117, 0.527);
     margin-top: 15px;
     margin-bottom: 15px;
 }
@@ -48,7 +48,7 @@ h2 {
     flex-wrap: wrap;
     width: 700px;
     margin: 0 30px;
-    background-color: rgb(67, 0, 122);
+    
 }
 
 .product {
