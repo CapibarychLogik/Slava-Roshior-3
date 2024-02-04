@@ -10,7 +10,7 @@ h1 {
 }
 
 nav {
-    border-top: 3px solid rgb(3, 10, 31);
+    border-top: 3px solid rgb(60, 63, 71);
     display: flex;
     justify-content: space-between;
     border-bottom: 3px solid rgb(40, 0, 116);
@@ -37,7 +37,7 @@ h2 {
 
 .catalog a {
     text-decoration: none;
-    color: black;
+    color: rgb(109, 104, 104);
     border-bottom: 1px dotted black;
     font-size: 20px;
 }
@@ -100,4 +100,8 @@ footer {
     color: rgb(5, 1, 44);
     padding: 10px;
     font-size: 20px;
+}
+
+.principle p {
+    color: blanchedalmond;
 }
